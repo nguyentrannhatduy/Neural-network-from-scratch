@@ -16,6 +16,10 @@ Input: X[weight, height] (pound and inches btw), y[int] (it contains right answe
 
 Output: The same matrix structure as X that matrix has predictions.
 
+## Structure
+test.py is hardcore network just for 3 layers
+main.py is network was generalized
+
 ## Requirement
 
 Python 3.14.7 (The version I used to make this network)
