@@ -18,6 +18,7 @@ Output: The same matrix structure as X that matrix has predictions.
 
 ## Structure
 test.py is hardcore network just for 3 layers
+
 main.py is network was generalized
 
 ## Requirement
