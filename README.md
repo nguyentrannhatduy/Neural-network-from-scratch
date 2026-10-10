@@ -1,10 +1,10 @@
-#Building neural network from scratch 
+# Building neural network from scratch 
 
 This is just some kind of self-learning project, I want to have a deeply understanding about neural network, and how it works.
 Calculus and linear algebra all of them hit me so hard, but it was also very amusing to apply those into a real thing rather than an excersise. on paper.
 I was following this guide: https://blog.stackademic.com/learn-to-build-a-neural-network-from-scratch-yes-really-cac4ca457efc
 
-##Description
+## Description
 
 I build a simple network with 2 hidden layer + 1 input layer + 1 output layer. I used sigmoid function for both hidden layer and output layer(it's not ideal).
 
@@ -13,12 +13,12 @@ Input: X[weight, height](pound and inches btw), y[int] (it contains right answer
 
 Output: The same matrix structure as X that matrix has predictions.
 
-##Requirement
+## Requirement
 
 Python 3.14.7 (The version I used to make this network)
 numpy 2.5.3
 
-##Room for improvement
+## Room for improvement
 
 As you can see using only sigmoid function for all the layers is not a good idea, from what I research it costs so much because of exponential calculation, and has vanishing gradient, exploding gradient problems. Probably, I can replace the activation function for hidden layers to ReLU.
 
