@@ -12,9 +12,9 @@ I build a simple network with 2 hidden layer + 1 input layer + 1 output layer. I
 
 This is a model to predict cardiovascular disease.
 
-### Input: X[weight, height] (pound and inches btw), y[int] (it contains right answer for corresponding weight, height in X).
+Input: X[weight, height] (pound and inches btw), y[int] (it contains right answer for corresponding weight, height in X).
 
-### Output: The same matrix structure as X that matrix has predictions.
+Output: The same matrix structure as X that matrix has predictions.
 
 ## Requirement
 
@@ -34,6 +34,6 @@ That when softmax comes to play, by putting this function at the output layer in
 
 Actually, I will save it for my school project. 
 
-### School projects's idea: Imagine an in-game dialouge will show up when players want to communicate with npc, they can type anything. The model will predict the intention of players, and return the corresponding game feature.
+School projects's idea: Imagine an in-game dialouge will show up when players want to communicate with npc, they can type anything. The model will predict the intention of players, and return the corresponding game feature.
 
 ### Repo's link of that school project: (not now)
