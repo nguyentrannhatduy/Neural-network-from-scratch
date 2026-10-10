@@ -35,7 +35,7 @@ Probably, I can replace the activation function for hidden layers to ReLU.
 
 So what if I want my output is more than just 0 or 1. 
 
-That when softmax comes to play, by putting softmax function at the output layer instead sigmoid and replace loss function from binary cross-entropy to categorical cross-entropy. 
+That when softmax comes to play, by putting softmax function at the output layer instead sigmoid and replacing loss function from binary cross-entropy to categorical cross-entropy. 
 
 Actually, I will save it for my school project. 
 
